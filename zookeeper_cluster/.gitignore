@@ -1,0 +1,8 @@
+/data
+/data/*
+!/data/.gitignore
+
+.env
+.env.app
+.env.app.*
+!.env.app.example
